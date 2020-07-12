@@ -2,8 +2,6 @@
 
 # Data Science Interviews
 
-Data science interview questions - with answers
-
 The answers are given by the community
 
 * If you know how to answer a question — please create a PR with the answer
